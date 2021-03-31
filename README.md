@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @c4k3ss
+- 👀 I’m interested in Games
+- 🌱 I’m currently learning C++ and JavaScript
